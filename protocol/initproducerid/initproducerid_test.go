@@ -3,8 +3,8 @@ package initproducerid_test
 import (
 	"testing"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/initproducerid"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/initproducerid"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 func TestInitProducerIDRequest(t *testing.T) {

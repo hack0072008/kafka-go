@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/addoffsetstotxn"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/addoffsetstotxn"
 )
 
 // AddOffsetsToTxnRequest is the request structure for the AddOffsetsToTxn function.

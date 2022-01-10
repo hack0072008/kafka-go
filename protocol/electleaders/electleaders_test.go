@@ -3,8 +3,8 @@ package electleaders_test
 import (
 	"testing"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/electleaders"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/electleaders"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 const (

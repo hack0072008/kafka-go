@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/alterpartitionreassignments"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/alterpartitionreassignments"
 )
 
 // AlterPartitionReassignmentsRequest is a request to the AlterPartitionReassignments API.

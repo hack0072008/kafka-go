@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/apiversions"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/apiversions"
 )
 
 // ApiVersionsRequest is a request to the ApiVersions API.

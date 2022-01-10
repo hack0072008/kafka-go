@@ -3,8 +3,8 @@ package deletetopics_test
 import (
 	"testing"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/deletetopics"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/deletetopics"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 const (

@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
-	produceAPI "gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/produce"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	produceAPI "github.com/hack0072008/kafka-go/kafka-go/protocol/produce"
 )
 
 type RequiredAcks int

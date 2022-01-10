@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress"
+	"github.com/hack0072008/kafka-go/kafka-go/compress"
 )
 
 // Attributes is a bitset representing special attributes set on records.

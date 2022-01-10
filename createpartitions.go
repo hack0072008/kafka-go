@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/createpartitions"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/createpartitions"
 )
 
 // CreatePartitionsRequest represents a request sent to a kafka broker to create

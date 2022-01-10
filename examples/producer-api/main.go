@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	kafka "gitlab-ce.alauda.cn/yhzhang/kafka-go"
+	kafka "github.com/hack0072008/kafka-go/kafka-go"
 )
 
 func producerHandler(kafkaWriter *kafka.Writer) func(http.ResponseWriter, *http.Request) {

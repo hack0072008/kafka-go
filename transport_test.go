@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/createtopics"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/createtopics"
 )
 
 func TestIssue477(t *testing.T) {

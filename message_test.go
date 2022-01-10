@@ -11,10 +11,10 @@ import (
 	"testing"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress/gzip"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress/lz4"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress/snappy"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress/zstd"
+	"github.com/hack0072008/kafka-go/kafka-go/compress/gzip"
+	"github.com/hack0072008/kafka-go/kafka-go/compress/lz4"
+	"github.com/hack0072008/kafka-go/kafka-go/compress/snappy"
+	"github.com/hack0072008/kafka-go/kafka-go/compress/zstd"
 	"github.com/stretchr/testify/require"
 )
 

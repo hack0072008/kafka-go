@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/produce"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/produce"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 const (

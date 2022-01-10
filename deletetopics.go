@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/deletetopics"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/deletetopics"
 )
 
 // DeleteTopicsRequest represents a request sent to a kafka broker to delete

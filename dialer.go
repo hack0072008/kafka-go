@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl"
 )
 
 // The Dialer type mirrors the net.Dialer API but is designed to open kafka

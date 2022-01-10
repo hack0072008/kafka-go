@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	metadataAPI "gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/metadata"
+	metadataAPI "github.com/hack0072008/kafka-go/kafka-go/protocol/metadata"
 )
 
 // The Writer type provides the implementation of a producer of kafka messages

@@ -5,7 +5,7 @@ import (
 	"context"
 	"net"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/listgroups"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/listgroups"
 )
 
 // ListGroupsRequest is a request to the ListGroups API.

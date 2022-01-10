@@ -8,7 +8,7 @@ import (
 	"errors"
 	"regexp"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go"
+	"github.com/hack0072008/kafka-go/kafka-go"
 )
 
 // List returns a slice of all the Topics

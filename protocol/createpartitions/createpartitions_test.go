@@ -3,8 +3,8 @@ package createpartitions_test
 import (
 	"testing"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/createpartitions"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/createpartitions"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 const (

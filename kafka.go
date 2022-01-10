@@ -1,6 +1,6 @@
 package kafka
 
-import "gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
+import "github.com/hack0072008/kafka-go/kafka-go/protocol"
 
 // Broker represents a kafka broker in a kafka cluster.
 type Broker struct {

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl"
 
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	sigv4 "github.com/aws/aws-sdk-go/aws/signer/v4"

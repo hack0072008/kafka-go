@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/compress"
+	"github.com/hack0072008/kafka-go/kafka-go/compress"
 )
 
 // This file defines builders to assist in creating kafka payloads for unit testing.

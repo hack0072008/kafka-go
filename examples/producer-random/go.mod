@@ -6,5 +6,5 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/uuid v1.1.0
 	github.com/klauspost/compress v1.12.2 // indirect
-	gitlab-ce.alauda.cn/yhzhang/kafka-go v0.4.15
+	github.com/hack0072008/kafka-go/kafka-go v0.4.15
 )

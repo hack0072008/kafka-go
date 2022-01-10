@@ -3,7 +3,7 @@
 // codec, which is now always included.
 package lz4
 
-import "gitlab-ce.alauda.cn/yhzhang/kafka-go/compress/lz4"
+import "github.com/hack0072008/kafka-go/kafka-go/compress/lz4"
 
 const (
 	Code = 3

@@ -3,8 +3,8 @@ package endtxn_test
 import (
 	"testing"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/endtxn"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/prototest"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/endtxn"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/prototest"
 )
 
 func TestEndTxnRequest(t *testing.T) {

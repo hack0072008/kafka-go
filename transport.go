@@ -16,14 +16,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/apiversions"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/createtopics"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/findcoordinator"
-	meta "gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/metadata"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/saslauthenticate"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/protocol/saslhandshake"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/apiversions"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/createtopics"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/findcoordinator"
+	meta "github.com/hack0072008/kafka-go/kafka-go/protocol/metadata"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/saslauthenticate"
+	"github.com/hack0072008/kafka-go/kafka-go/protocol/saslhandshake"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl"
 )
 
 // Request is an interface implemented by types that represent messages sent

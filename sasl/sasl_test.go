@@ -5,11 +5,11 @@ import (
 	"testing"
 	"time"
 
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl/plain"
-	"gitlab-ce.alauda.cn/yhzhang/kafka-go/sasl/scram"
-	ktesting "gitlab-ce.alauda.cn/yhzhang/kafka-go/testing"
+	"github.com/hack0072008/kafka-go/kafka-go"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl/plain"
+	"github.com/hack0072008/kafka-go/kafka-go/sasl/scram"
+	ktesting "github.com/hack0072008/kafka-go/kafka-go/testing"
 )
 
 const (

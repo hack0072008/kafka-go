@@ -1,4 +1,4 @@
-module gitlab-ce.alauda.cn/yhzhang/kafka-go
+module github.com/hack0072008/kafka-go/kafka-go
 
 go 1.15
 
