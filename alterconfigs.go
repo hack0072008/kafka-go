@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/hack0072008/kafka-go/kafka-go/protocol/alterconfigs"
+	"github.com/hack0072008/kafka-go/protocol/alterconfigs"
 )
 
 // AlterConfigsRequest represents a request sent to a kafka broker to alter configs

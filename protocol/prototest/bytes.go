@@ -1,7 +1,7 @@
 package prototest
 
 import (
-	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/protocol"
 )
 
 // Bytes constructs a Bytes which exposes the content of b.

@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/hack0072008/kafka-go/kafka-go/protocol/offsetcommit"
+	"github.com/hack0072008/kafka-go/protocol/offsetcommit"
 )
 
 // OffsetCommit represent the commit of an offset to a partition.

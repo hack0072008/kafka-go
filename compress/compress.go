@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hack0072008/kafka-go/kafka-go/compress/gzip"
-	"github.com/hack0072008/kafka-go/kafka-go/compress/lz4"
-	"github.com/hack0072008/kafka-go/kafka-go/compress/snappy"
-	"github.com/hack0072008/kafka-go/kafka-go/compress/zstd"
+	"github.com/hack0072008/kafka-go/compress/gzip"
+	"github.com/hack0072008/kafka-go/compress/lz4"
+	"github.com/hack0072008/kafka-go/compress/snappy"
+	"github.com/hack0072008/kafka-go/compress/zstd"
 )
 
 // Compression represents the the compression applied to a record set.

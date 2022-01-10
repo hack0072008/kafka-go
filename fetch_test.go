@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hack0072008/kafka-go/kafka-go/compress"
+	"github.com/hack0072008/kafka-go/compress"
 )
 
 func copyRecords(records []Record) []Record {

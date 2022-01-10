@@ -8,7 +8,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/hack0072008/kafka-go/kafka-go/protocol"
+	"github.com/hack0072008/kafka-go/protocol"
 )
 
 func TestResponse(t *testing.T, version int16, msg protocol.Message) {

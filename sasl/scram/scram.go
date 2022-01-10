@@ -6,7 +6,7 @@ import (
 	"crypto/sha512"
 	"hash"
 
-	"github.com/hack0072008/kafka-go/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/sasl"
 	"github.com/xdg/scram"
 )
 

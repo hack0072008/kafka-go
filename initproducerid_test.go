@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	ktesting "github.com/hack0072008/kafka-go/kafka-go/testing"
+	ktesting "github.com/hack0072008/kafka-go/testing"
 )
 
 func TestClientInitProducerId(t *testing.T) {

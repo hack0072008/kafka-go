@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	heartbeatAPI "github.com/hack0072008/kafka-go/kafka-go/protocol/heartbeat"
+	heartbeatAPI "github.com/hack0072008/kafka-go/protocol/heartbeat"
 )
 
 // HeartbeatRequest represents a heartbeat sent to kafka to indicate consume liveness.

@@ -3,7 +3,7 @@
 // codec, which is now always included.
 package snappy
 
-import "github.com/hack0072008/kafka-go/kafka-go/compress/snappy"
+import "github.com/hack0072008/kafka-go/compress/snappy"
 
 type CompressionCodec = snappy.Codec
 

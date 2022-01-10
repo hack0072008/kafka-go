@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hack0072008/kafka-go/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/sasl"
 )
 
 // Mechanism implements the PLAIN mechanism and passes the credentials in clear

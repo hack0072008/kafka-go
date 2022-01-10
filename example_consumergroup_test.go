@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hack0072008/kafka-go/kafka-go"
+	"github.com/hack0072008/kafka-go"
 )
 
 func ExampleGeneration_Start_consumerGroupParallelReaders() {

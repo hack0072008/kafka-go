@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/hack0072008/kafka-go/kafka-go/protocol/findcoordinator"
+	"github.com/hack0072008/kafka-go/protocol/findcoordinator"
 )
 
 // CoordinatorKeyType is used to specify the type of coordinator to look for

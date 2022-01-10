@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	kafka "github.com/hack0072008/kafka-go/kafka-go"
+	kafka "github.com/hack0072008/kafka-go"
 )
 
 func newKafkaWriter(kafkaURL, topic string) *kafka.Writer {

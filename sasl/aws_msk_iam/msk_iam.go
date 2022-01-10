@@ -12,7 +12,7 @@ import (
 	"time"
 
 	sigv4 "github.com/aws/aws-sdk-go/aws/signer/v4"
-	"github.com/hack0072008/kafka-go/kafka-go/sasl"
+	"github.com/hack0072008/kafka-go/sasl"
 )
 
 const (

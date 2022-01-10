@@ -3,7 +3,7 @@
 // codec, which is now always included.
 package zstd
 
-import "github.com/hack0072008/kafka-go/kafka-go/compress/zstd"
+import "github.com/hack0072008/kafka-go/compress/zstd"
 
 const (
 	Code                    = 4
